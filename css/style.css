@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');   
+#center{
+    display: flex;
+    height:100vh;
+    justify-content:center;
+    align-items:center;
+   }
+   h1{
+    font-family: "Playwrite IT Moderna", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+   
+    
