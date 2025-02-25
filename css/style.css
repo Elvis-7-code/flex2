@@ -8,9 +8,10 @@
    h1{
     font-family: "Playwrite IT Moderna", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: <bold>;
     font-style: normal;
-  }
-  
+    color:red;
+  } 
+
    
     
